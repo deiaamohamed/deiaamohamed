@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Palestine_flag_300.png" alt="Palestinian Flag" width="50" height="30">
+  <img src="https://giphy.com/gifs/freedom-palestine-free-8c4zSICCI2BTDHco2j" alt="Palestinian Flag" width="50" height="30">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Pray%20for%20our%20brothers;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
