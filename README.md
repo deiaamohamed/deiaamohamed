@@ -32,9 +32,10 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8c4zSICCI2BTDHco2j/giphy.gif?cid=790b7611m6h047elyxlwubm4yu9w5t88a9lz5zgadkpq696o&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Palestinian Flag" width="50" height="30">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Pray%20for%20our%20brothers;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="[https://readme-typing-svg.herokuapp.com/?](https://media.giphy.com/media/8c4zSICCI2BTDHco2j/giphy.gif?cid=790b7611m6h047elyxlwubm4yu9w5t88a9lz5zgadkpq696o&ep=v1_gifs_search&rid=giphy.gif&ct=g)"
+      lines=Pray%20for%20our%20brothers;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
+
 
