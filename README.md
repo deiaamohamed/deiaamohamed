@@ -37,6 +37,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Pray%20for%20our%20brothers;&font=Fira%20Code&center=true&width=440&height=45&color=2cd940&vCenter=true&size=22">
   </a>
 </p>
-
+<img src="https://raw.githubusercontent.com/Elaraby218/Elaraby218/output/snake.svg" alt="Snake animation" />
 
 
