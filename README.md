@@ -1,10 +1,10 @@
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm Deiaa Mohamed <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm Deiaa Mohamed </h2>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Enginner;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=1dd5dc&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=1dd5dc&vCenter=true&size=22"></a>
 </p> 
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -30,13 +30,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/8c4zSICCI2BTDHco2j/giphy.gif" alt="Palestinian Flag" width="60" height="40">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Pray%20for%20our%20brothers;&font=Fira%20Code&center=true&width=440&height=45&color=2cd940&vCenter=true&size=22">
-  </a>
-</p>
 <img src="https://raw.githubusercontent.com/Elaraby218/Elaraby218/output/snake.svg" alt="Snake animation" />
 
 
