@@ -3,9 +3,7 @@
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Student;ASP.NET CORE%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=1dd5dc&vCenter=true&size=22"></a>
-</p> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Deiaa+Mohamed;ASP.NET+CORE+DEVELOPER)](https://git.io/typing-svg)
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Cpp, Kotlin, and Python.
