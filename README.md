@@ -1,14 +1,4 @@
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm Deiaa Mohamed </h2>
-
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Django%20Developer;Machine+Learning+Student)](https://git.io/typing-svg)
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Cpp, Kotlin, and Python.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee, I love Video Games too :).
-
-
 ### Connect with Me :
 <a href="https://www.linkedin.com/in/deiaa-mohamed-913221250/" target="_blank"><img src="https://img.shields.io/badge/-Deiaa%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100070601292884" target="_blank"><img src="https://img.shields.io/badge/-Deiaa%20Mohamed-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
