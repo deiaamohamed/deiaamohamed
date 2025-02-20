@@ -1,11 +1,8 @@
-### Connect with Me:
 <a href="https://www.linkedin.com/in/deiaa-mohamed-913221250/" target="_blank">
   <img src="https://img.shields.io/badge/-Deiaa%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100070601292884" target="_blank">
+</a><a href="https://www.facebook.com/profile.php?id=100070601292884" target="_blank">
   <img src="https://img.shields.io/badge/-Deiaa%20Mohamed-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
