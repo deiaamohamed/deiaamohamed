@@ -1,6 +1,6 @@
 ### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-Deiaa%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deiaa-mohamed-913221250/)
-[![Facebook](https://img.shields.io/badge/-Deiaa%20Mohamed-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070601292884)
+[![LinkedIn](https://img.shields.io/badge/Deiaa%20Mohamed-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deiaa-mohamed-913221250/)
+[![Facebook](https://img.shields.io/badge/Deiaa%20Mohamed-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070601292884)
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
