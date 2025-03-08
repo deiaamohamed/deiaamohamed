@@ -17,6 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/Elaraby218/Elaraby218/output/snake.svg" alt="Snake animation" />
 
+![Python](https://img.shields.io/badge/Python-52.61%25-brightgreen)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deiaamohamed&layout=compact&langs_count=6)](https://github.com/deiaamohamed/github-readme-stats)
 
